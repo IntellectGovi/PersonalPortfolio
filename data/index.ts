@@ -224,6 +224,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/govind-upadhyay/",
+    link: "https://www.linkedin.com/in/govin/",
   },
 ];
