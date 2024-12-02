@@ -12,7 +12,8 @@ export const gridItems = [
     id: 1,
     title: "I prioritize my work, fostering better communication ",
     description: "",
-    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh] text-black",
+    className:
+      "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh] text-black",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
     img: "/b1.png",
@@ -77,7 +78,13 @@ export const projects = [
     title: "Pathshala - Ed Tech Website",
     des: "A fully functional Ed-tech website with the goal to reform education free of cost.",
     img: "/p1.png",
-    iconLists: ["/mongo.svg", "/tail.svg", "/re.svg", "/express.svg", "/node.svg"],
+    iconLists: [
+      "/mongo.svg",
+      "/tail.svg",
+      "/re.svg",
+      "/express.svg",
+      "/node.svg",
+    ],
     link: "https://pathshala-xi.vercel.app/",
   },
   {
@@ -212,7 +219,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://x.com",
+    link: "https://x.com/Goviop9026",
   },
   {
     id: 3,
